@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class Main {
+public class perfect-strength {
 
 	static boolean jumper(int strength,int rungs,int[] rung){
 		for(int i=1;i<rung.length;i++)
