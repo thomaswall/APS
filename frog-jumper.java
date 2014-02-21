@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class Main {
+public class frog-jumper {
 
 	public static void main(String[] args) throws IOException{
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
