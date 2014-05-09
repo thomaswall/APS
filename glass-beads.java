@@ -32,6 +32,7 @@ class SuffixTree
 	/**
 	 * Node of the SuffixTree.
 	 */
+	 
 	public class Node implements Iterable<Edge>
 	{
 		/** Maps first letters to edges leading to children */
